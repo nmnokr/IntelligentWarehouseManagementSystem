@@ -1,0 +1,86 @@
+545454
+545
+45
+45
+45
+45
+45
+
+4120419802 Rfid nolu ÜrünSistem Son Günceleme Saati : Çar Nis 24 09:15:15 EAT 2019  Depoya Giriþ Yapmýþtir
+04451671708588129 Rfid nolu ÜrünSistem Son Günceleme Saati : Çar Nis 24 09:15:45 EAT 2019  Depoya Giriþ Yapmýþtir
+04451671708588129 Rfid nolu Ürün  : Çar Nis 24 09:17:16 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+4120419802 Rfid nolu Ürün  : Çar Nis 24 09:17:17 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+4120419802 Rfid nolu Ürün  : Çar Nis 24 09:17:42 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+04451671708588129 Rfid nolu Ürün  : Çar Nis 24 09:17:42 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Çar Nis 24 09:18:59 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+04451671708588129 Rfid nolu Ürün  : Çar Nis 24 09:19:01 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Çar Nis 24 09:20:00 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+4120419802 Rfid nolu Ürün  : Çar Nis 24 09:23:21 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+04451671708588129 Rfid nolu Ürün  : Çar Nis 24 09:23:21 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:02 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:14 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:18 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:43 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:45 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:36:49 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+7 Rfid nolu Ürün  : Çar Nis 24 09:37:08 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+8 Rfid nolu Ürün  : Çar Nis 24 09:37:10 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+10 Rfid nolu Ürün  : Çar Nis 24 09:37:18 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+8 Rfid nolu Ürün  : Çar Nis 24 09:37:58 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+7 Rfid nolu Ürün  : Çar Nis 24 09:38:22 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+7 Rfid nolu Ürün  : Çar Nis 24 09:38:23 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+7 Rfid nolu Ürün  : Çar Nis 24 09:38:28 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+7 Rfid nolu Ürün  : Çar Nis 24 09:38:30 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Cum Nis 26 14:25:33 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Cum Nis 26 14:26:39 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+23111120036 Rfid nolu Ürün  : Cum Nis 26 14:26:44 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+23111120036 Rfid nolu Ürün  : Cum Nis 26 14:26:45 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+23111120036 Rfid nolu Ürün  : Cum Nis 26 14:26:56 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Cum Nis 26 14:31:12 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+04451671708588129 Rfid nolu Ürün  : Cum Nis 26 14:31:21 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Cum Nis 26 14:57:05 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+Using the following key:04451671708588129 Rfid nolu Ürün  : Cum Nis 26 14:57:09 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+0 Rfid nolu Ürün  : Cum Nis 26 15:07:24 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+This code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Çar May 01 13:43:05 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+Using the following key:4120419802 Rfid nolu Ürün  : Çar May 01 13:43:10 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+0 Rfid nolu Ürün  : Çar May 01 15:48:08 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+0 Rfid nolu Ürün  : Çar May 01 15:48:10 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+15 Rfid nolu Ürün  : Per May 02 09:54:25 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+13 Rfid nolu Ürün  : Per May 02 11:33:28 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+2492179271 Rfid nolu Ürün  : Sal May 07 17:23:09 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+2492179271 Rfid nolu Ürün  : Sal May 07 17:25:03 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+18714111827 Rfid nolu Ürün  : Sal May 07 17:26:08 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+14 Rfid nolu Ürün  : Sal May 07 17:38:43 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+1631096926 Rfid nolu Ürün  : Sal May 07 17:42:07 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1631096926 Rfid nolu Ürün  : Çar May 08 10:54:38 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+1631096926 Rfid nolu Ürün  : Çar May 08 10:54:38 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1631096926 Rfid nolu Ürün  : Çar May 08 10:56:19 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+1631096926 Rfid nolu Ürün  : Çar May 08 10:56:19 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1631096926 Rfid nolu Ürün  : Çar May 08 10:56:28 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+1631096926 Rfid nolu Ürün  : Çar May 08 10:56:28 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+16320221726 Rfid nolu Ürün  : Çar May 08 10:56:36 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+16320221726 Rfid nolu Ürün  : Çar May 08 10:56:36 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+735816485 Rfid nolu Ürün  : Çar May 08 10:56:38 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+735816485 Rfid nolu Ürün  : Çar May 08 10:56:38 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1878811627 Rfid nolu Ürün  : Çar May 08 11:25:08 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+1878811627 Rfid nolu Ürün  : Çar May 08 11:35:16 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1878811627 Rfid nolu Ürün  : Çar May 08 11:35:17 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+1878811627 Rfid nolu Ürün  : Çar May 08 11:42:18 EAT 2019'tarihinde Ürün depoya giriþ yapmiþtir.
+1631096926 Rfid nolu Ürün  : Çar May 08 15:10:10 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+1631096926 Rfid nolu Ürün  : Çar May 08 15:11:42 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+27 Rfid nolu Ürün  : Çar May 08 15:13:09 EAT 2019'tarihinde Cýksý Islemý Baslamýstýr
+1631096926 Rfid nolu Ürün  : Çar May 08 15:14:15 EAT 2019'tarihinde Ürün raf'tan alýnmiþtir
+1631096926 Rfid nolu Ürün  : Çar May 08 15:16:25 EAT 2019'tarihinde Ürün depoya giriþ yapmiþtir.
+1631096926 Rfid nolu Ürün  : Çar May 08 15:16:25 EAT 2019'tarihinde   Rafa yerleþtirilmiþtirdi
+14721201126 Rfid nolu Ürün  : Cmt May 11 14:49:03 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+25000493 Rfid nolu Ürün  : Cmt May 11 14:49:31 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+1551801227 Rfid nolu Ürün  : Cmt May 11 14:49:35 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+594311327 Rfid nolu Ürün  : Cmt May 11 14:49:39 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+ Rfid nolu:163589926Ýsim:sarý1 Ürün   : Per May 16 16:37:25 EAT 2019'Tarihinde Ürün Eklenmiþtir. Ve Depo alanýnda Beklemektedir.
+163589926 Rfid nolu Ürün  : Per May 16 16:54:55 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+163589926 Rfid nolu Ürün  : Per May 16 16:55:19 EAT 2019'tarihinde Ürün depoya giriþ yapmiþtir.
+ Rfid nolu:16311320726Ýsim:X Ürün   : Per May 16 17:02:22 EAT 2019'Tarihinde Ürün Eklenmiþtir. Ve Depo alanýnda Beklemektedir.
+16311320726 Rfid nolu Ürün  : Per May 16 17:03:29 EAT 2019'tarihinde Ürün Personel Tarafindan alýnmiþtir
+16311320726 Rfid nolu Ürün  : Per May 16 17:05:48 EAT 2019'tarihinde Ürün depoya giriþ yapmiþtir.
+16311320726 Rfid nolu Ürün  : Per May 16 17:08:33 EAT 2019'tarihinde Ürün raf'a yerleþmiþtir
+1476117726 Rfid nolu Ürün  : Per May 16 17:11:20 EAT 2019'tarihinde Ürün depoya giriþ yapmiþtir.

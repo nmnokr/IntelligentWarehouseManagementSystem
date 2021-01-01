@@ -1,0 +1,25 @@
+sad
+
+sda
+sad
+
+asd
+s
+ad
+asd
+ads
+
+ads
+
+UYARÝ163589926 Rfid nolu Ürün  : Per May 16 16:58:39 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ163589926 Rfid nolu Ürün  : Per May 16 16:58:49 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ230123215251 Rfid nolu Ürün  : Per May 16 16:59:03 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16301419226 Rfid nolu Ürün  : Per May 16 16:59:05 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝThis code scan the MIFARE Classsic NUID. Rfid nolu Ürün  : Per May 16 17:05:48 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝUsing the following key:16311320726 Rfid nolu Ürün  : Per May 16 17:05:48 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:05:48 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:05:49 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:05:49 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:05:50 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:06:16 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.
+UYARÝ16311320726 Rfid nolu Ürün  : Per May 16 17:07:07 EAT 2019'tarihinde   izinsiz depoya giriþ/cikiþ yapmýþtir.

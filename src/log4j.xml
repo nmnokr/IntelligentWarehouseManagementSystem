@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ 
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration debug="true"
+	xmlns:log4j='http://jakarta.apache.org/log4j/'>
+
+	<appender name="console"
+		class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="file"
+		class="org.apache.log4j.RollingFileAppender">
+		<param name="append" value="false" />
+		<param name="maxFileSize" value="10MB" />
+		<param name="maxBackupIndex" value="10" />
+		<param name="file" value="C:\Users\Numan\Desktop\ASD.txt" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d{yyyy-MM-dd HH:mm:ss} %-5p %c{1}:%L - %m%n" />
+		</layout>
+	</appender>
+
+
+	<appender name="Email"
+		class="org.apache.log4j.net.SMTPAppender">
+		<param name="BufferSize" value="1" /> <!-- default is 512, changed for test cases to work -->
+		<param name="SMTPProtocol" value="smtps" /> <!-- GMail will not work without this, log4j 1.2.16 is required -->
+		<param name="SMTPHost" value="smtp.gmail.com" />
+		<param name="SMTPPort" value="465" />
+		<param name="SMTPUsername" value="nmnokr46@gmail.com" /> <!-- example@gmail.com -->
+		<param name="SMTPPassword" value="" /> <!-- passowrd -->
+		<param name="From" value="nmnokr46@gmail.com" />
+		<param name="To" value="nmnokr46@gmail.com" />
+		<param name="Subject" value="Depoda Riskli Olay Meydana Geldi" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern"
+				value="%d{yyyy-MMM-dd HH:mm:ss,SSS} [%t] %c %x %-5p %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+
+			<param name="LevelMax" value="fatal" />
+		</filter>
+	</appender>
+
+
+	<root>
+		<level value="DEBUG" />
+		<appender-ref ref="console" />
+		<appender-ref ref="file" />
+				<appender-ref ref="Email" />
+
+	</root>
+
+	<root>
+		<level value="TRACE" />
+		<appender-ref ref="Email" />
+
+	</root>
+
+</log4j:configuration>

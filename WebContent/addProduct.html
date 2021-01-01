@@ -1,0 +1,230 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+<title>Ürün Ekle | Depo Yönetim Sistemi</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- VENDOR CSS -->
+<link rel="stylesheet"
+	href="assets/vendor/bootstrap/css/bootstrap.min.css">
+<link rel="stylesheet"
+	href="assets/vendor/font-awesome/css/font-awesome.min.css">
+<link rel="stylesheet" href="assets/vendor/linearicons/style.css">
+<!-- MAIN CSS -->
+<link rel="stylesheet" href="assets/css/main.css">
+<!-- FOR DEMO PURPOSES ONLY. You should remove this in your project -->
+<link rel="stylesheet" href="assets/css/demo.css">
+<!-- GOOGLE FONTS -->
+<link
+	href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,700"
+	rel="stylesheet">
+<!-- ICONS -->
+<link rel="apple-touch-icon" sizes="76x76"
+	href="assets/img/apple-icon.png">
+<link rel="icon" type="image/png" sizes="96x96"
+	href="assets/img/favicon.png">
+<style>
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+/* The Modal (background) */
+.modal {
+	display: none; /* Hidden by default */
+	position: fixed; /* Stay in place */
+	z-index: 1; /* Sit on top */
+	padding-top: 100px; /* Location of the box */
+	left: 0;
+	top: 0;
+	width: 100%; /* Full width */
+	height: 100%; /* Full height */
+	overflow: auto; /* Enable scroll if needed */
+	background-color: rgb(0, 0, 0); /* Fallback color */
+	background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+	background-color: #fefefe;
+	margin: auto;
+	padding: 50px;
+	border: 1px solid #888;
+	width: 80%;
+}
+
+/* The Close Button */
+.close {
+	color: #aaaaaa;
+	float: right;
+	font-size: 28px;
+	font-weight: bold;
+}
+
+.close:hover, .close:focus {
+	color: #000;
+	text-decoration: none;
+	cursor: pointer;
+}
+</style>
+<script type="text/javascript">
+	function asd() {
+
+		var Katagori = $("#Katagori option:selected").text();
+		var Firmaadi = $("#Firmaadi option:selected").text();
+		var Name = $("#nameTxt").val();
+		var Rfid = $("#rfidData").val();
+
+		$.ajax({
+			type : "POST",
+			url : '/WarehouseManagementSystem/rest/rfid/deneme',
+			contentType : "application/json",
+			mimeType : "application/json",
+			data : (Katagori + '>' + Firmaadi + '>' + Name + '>' + Rfid),
+			success : function() {
+				$("#Katagori option:selected").text() = "";
+				$("#Firmaadi option:selected").text() = "";
+				$("#nameTxt").val() = "";
+				Rfid = $("#rfidData").val() = "";
+
+			},
+			error : function() {
+
+				window.open("erroradd.html", "", "width=400,height=400");
+			}
+		});
+	};
+</script>
+
+<script>
+	
+</script>
+</head>
+
+<body>
+	<!-- WRAPPER -->
+	<div id="wrapper">
+		<!-- NAVBAR -->
+		<nav class="navbar navbar-default navbar-fixed-top">
+			<div class="brand">
+				<a href="index.html"><img src="assets/img/logo-dark.png"
+					style="height: 50px; postion: relative" alt="Klorofil Logo"
+					class="img-responsive logo"></a>
+
+			</div>
+			<div class="container-fluid">
+				<div class="navbar-btn">
+					<button type="button" class="btn-toggle-fullwidth">
+						<i class="lnr lnr-arrow-left-circle"></i>
+					</button>
+				</div>
+
+			</div>
+		</nav>
+		<!-- END NAVBAR -->
+		<!-- LEFT SIDEBAR -->
+		<div id="sidebar-nav" class="sidebar">
+			<div class="sidebar-scroll">
+				<nav>
+					<ul class="nav">
+						<li><a href="index.html" class="active"><i
+								class="lnr lnr-home"></i> <span>Anasayfa</span></a></li>
+						<li><a href="addProduct.html" class=""><i
+								class="lnr lnr-cart"></i> <span>Ürün Ekle</span></a></li>
+						<li><a href="saleProduct.html" class=""><i
+								class="lnr lnr-exit"></i> <span>Ürün Çıkış</span></a></li>
+					</ul>
+				</nav>
+			</div>
+		</div>
+		<!-- END LEFT SIDEBAR -->
+		<!-- MAIN -->
+		<div class="main">
+			<!-- MAIN CONTENT -->
+			<div class="main-content">
+				<div class="container-fluid">
+					<h3 class="page-title">Ürün Ekle</h3>
+					<div class="row">
+						<div class="col-md-6">
+							<!-- BUTTONS -->
+							<div class="panel">
+								<div class="panel-body">
+									<div class="form-group">
+
+										<form class="form-auth-small" action="index.jsp" method="post">
+
+											<div class="col-md-12">
+												<input name="productId" type="hidden" value="Products.Id">
+
+												<label>RFID <br>
+												</label> <br>
+												<button type="button" class="btn btn-info" name="rfidBtn"
+													onclick="okut()">
+													<i class="fa fa-refresh"></i> RFID OKUT
+												</button>
+												<input type="text" name="rfidData"
+													style="width: 200px; height: 34px; background-color: #5bc0de;"
+													id="rfidData" value="" disabled="false"><br> <br>
+												<label>AD <br>
+												</label><input class="form-control input-lg" placeholder="Name"
+													type="text" name="nameTxt" id="nameTxt"> <br>
+												<label>KATEGORİ <br>
+												</label> <select id=Katagori class="form-control input-lg">
+
+												</select> <br> <label>FİRMA <br></label> <select
+													id=Firmaadi class="form-control input-lg">
+
+
+												</select>
+
+												<div class="col-md-12">
+													<br>
+													<button type="button" class="btn btn-primary btn-block"
+														name="addBtn" onclick="asd()">EKLE</button>
+												</div>
+											</div>
+											<div id="erroraddProduct" class="modal">
+
+												<!-- Modal content -->
+												<div class="modal-content">
+													<span class="close">&times;</span>
+													<p>ÜRÜN EKLEME SIRASINDA HATA OLUSTU</p>
+												</div>
+
+											</div>
+										</form>
+
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- END MAIN CONTENT -->
+		<!-- END MAIN -->
+		<div class="clearfix"></div>
+		<footer>
+			<div class="container-fluid">
+				<p class="copyright">
+					&copy; 2017 <a href="https://www.themeineed.com" target="_blank">Theme
+						I Need</a>. All Rights Reserved.
+				</p>
+			</div>
+		</footer>
+	</div>
+	<!-- END WRAPPER -->
+	<!-- Javascript -->
+	<script src="assets/vendor/jquery/jquery.min.js"></script>
+	<script src="js/addProduct.js" type="text/javascript"></script>
+	<script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+	<script src="assets/vendor/jquery-slimscroll/jquery.slimscroll.min.js"></script>
+	<script src="assets/scripts/klorofil-common.js"></script>
+
+
+</body>
+
+</html>

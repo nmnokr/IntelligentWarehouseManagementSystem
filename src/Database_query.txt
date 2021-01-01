@@ -1,0 +1,25 @@
+// Depo1 ' deki çýkýþ yapmamýþ ürün sayýsýný getirir.  
+    ---	SELECT  Count(*) From Product Where StokId=1 AND DepartureDate < Curtime() OR DepartureDate IS NULL ----
+
+// Depo2 ' deki ürün sayýsýný getirir.
+    ---	SELECT  Count(*) From Product Where StokId=2 AND DepartureDate < Curtime() OR DepartureDate IS NULL ----
+
+// Depo ' ya Ürün Ekleme 
+
+    --- Insert Into Product (Name,Type,RfId,ShelfId,Status,StokId,CreateDate,DepartureDate) Values('" + name + "', '" + type + "', '" + rfId + "', " + shelfId + ", 0, " + stokId + ", CURTIME(), '" + departureDate + "') 
+a
+---------------------------------------------------------------------
+// Ornek KOD:
+
+INSERT INTO Product (Name,Type,RfId,ShelfId,Status,StokId,CreateDate,DepartureDate) Values(' Urun3 ', '  Telefon ', ' 2468 ', 4, 0, 1, CURTIME(),NULL);
+---------------------------------------------------------------------
+
+	// ShelfId Rastgele boþ raf atamasý ile atanacak --> Sorgu aþaðýda
+	// Status Durum baþlangýçta 0 olarak atandý.    +++++
+	// StokId int deger döndürüyor. 
+	// CreateDate Curtime() fonksiyonu ile atandý.  +++++
+	// DepartureDate çýkýþta güncellenecek 
+
+
+// Depo1 ' deki boþ raflarý getirir.
+   --- Select RfId From Shelf Where RfId IS NULL AND StokId=1 ----	
